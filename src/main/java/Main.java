@@ -1,12 +1,8 @@
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import jdk.internal.org.objectweb.asm.TypeReference;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 

@@ -1,5 +1,3 @@
-import java.util.Comparator;
-
 public class Employee implements Comparable<Employee>{
 
     private String firstName;
